@@ -1,6 +1,8 @@
 ---
 - name: filter ipv4
   gather_facts: false
+  roles:
+    - new_role
 
 
   tasks:
