@@ -1,2 +1,9 @@
 ---
+<<<<<<< HEAD
 # tasks file for new_role
+=======
+# tasks file for new_role
+- name: display message from myrole
+  debug:
+    msg: display from myrole
+>>>>>>> c9d83a1d463844ad69a483790e30fac0c183bb75
